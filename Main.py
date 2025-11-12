@@ -1,16 +1,3 @@
-"""
-================================================================================
-ATTENDANCE TRACKER - Python Assignment
-================================================================================
-Name: Jitin Kumar Sengar
-Roll No: 2501940073
-Course: MCA (AI & ML)
-Date: November 7, 2025
-Assignment: Attendance Tracker System
-Description: A comprehensive tool to record and manage student attendance
-             with validation, summary generation, and file export features.
-================================================================================
-"""
 
 import os
 from datetime import datetime
@@ -253,3 +240,4 @@ def main():
 # Program entry point
 if __name__ == "__main__":
     main()
+
