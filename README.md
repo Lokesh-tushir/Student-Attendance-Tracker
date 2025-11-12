@@ -1,2 +1,1 @@
-# Student-Attendance-Tracker
-<b>Student Attendance Tracker:</b>  • Input daily names and timestamps  • Store entries in lists and dictionaries  • Generate formatted attendance summaries  • Validate entries using control statements  
+A lightweight Python CLI tool for efficiently tracking student attendance, preventing duplicates, and exporting daily reports to a text file. 📝✅
